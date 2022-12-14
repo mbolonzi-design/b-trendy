@@ -10,7 +10,7 @@ function Login() {
         <input type="submit" value='Login' />
       </form>
       <hr />
-      <p>Don't have an account <button>Register</button></p>
+      <p>Don't have an account? <button>Register</button></p>
     </div>
   )
 }

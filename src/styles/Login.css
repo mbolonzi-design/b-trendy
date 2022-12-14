@@ -1,4 +1,22 @@
 .login-form{
-    max-width: 500px;
-    height: auto;
+    max-width: 300px;
+}
+
+input{
+    display: flex;
+    width: 280px;
+    height: 26px;
+    margin: 0.5rem;
+}
+
+input[type="submit"]{
+    width: auto;
+    margin-top: 10px;
+    font-size: 16px;
+    height: 25px;
+}
+
+button{
+    text-align: center;
+    font-size: 14px;
 }
