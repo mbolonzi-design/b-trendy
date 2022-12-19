@@ -6,9 +6,9 @@ function NavBar() {
   return (
     <nav>
       <Link to='/' className='link'>Home</Link>
-      <Link to='/ProductList' className='link'>Products</Link>
+      <Link to='/ProductList' className='link'>Shop</Link>
       <Link to='/Login' className='link'>Login</Link>
-      <Link to='/Register' className='link'>Register</Link>
+      {/* <Link to='/Register' className='link'>Register</Link> */}
     </nav>
   )
 }

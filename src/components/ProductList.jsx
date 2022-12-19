@@ -2,7 +2,11 @@ import React from 'react'
 
 function ProductList() {
   return (
-    <div>ProductList</div>
+    <div>
+      <div className="arrivals">
+        <h3>New Arrivals</h3>
+      </div>
+    </div>
   )
 }
 
